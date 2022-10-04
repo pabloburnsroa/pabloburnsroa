@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building my portfolio.<br>👯 I’m looking to collaborate with anyone on React projects.<br>🤝 I’m looking for work in anything Tech related.<br>🌱 I’m currently learning React and TypeScript.<br>💬 Ask me about anything!<br>⚡ Fun fact: I am a twin!
+🔭 I’m currently working on building my portfolio.<br>👯 I’m looking to collaborate with anyone on React projects.<br>🤝 I’m currently open for work.<br>🌱 I’m currently learning React and TypeScript.<br>💬 Ask me about anything!<br>⚡ Fun fact: I am a twin!
 
 
 ## 🌐 Socials:
